@@ -1,0 +1,9 @@
+
+hsquid:S2095"EUse try-with-resources or close this "Channel" in a "finally" clause.(ãŒ€Ôúÿÿÿÿ8™äØÝÜ-
+csquid:UselessImportCheck"8Remove this unused import 'java.util.function.Function'.(»³Íž8ù¢ØÝÜ-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª’†€8™äØÝÜ-
+ksquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ùï”°ÿÿÿÿÿ8™äØÝÜ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰µ˜×ýÿÿÿÿ8™äØÝÜ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ü¶•ú8ŸþçÝÜ-
